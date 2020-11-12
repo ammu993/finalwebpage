@@ -1,0 +1,18 @@
+# some information about you
+name: "Ammu Joshy"
+nickname: "Ammu"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: "images/author/BW.jpg"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "ammujoshy@gmail.com"
+ #phone: ""
+
+# some summary about what you do
+summary:
+  - I am a Critical thinker
+  - I am a Engineer-Philosopher
+  - I love investigating the ethics of emerging technologies
+  - I love empirical research 
+ # - I love to work with some fun projects
